@@ -12,8 +12,7 @@ Este repositorio contiene el código y los datos utilizados durante la sesión d
 1. **Clonar el repositorio**:  
    Para obtener una copia local del repositorio, ejecute el siguiente comando:  
    ```bash
-   git clone [URL_DEL_REPO]
-
+   git clone https://github.com/chemacecilia/SII-UPV.git
 2. **Instalación de dependencias**:
 Asegúrate de tener instaladas todas las bibliotecas necesarias. Puedes instalarlas usando pip:
 
