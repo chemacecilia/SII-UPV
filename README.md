@@ -18,15 +18,15 @@ Asegúrate de tener instaladas todas las bibliotecas necesarias. Puedes instalar
 
 pip install -r requirements.txt
 
-3. Ejecución de notebooks/scripts
+3. **Ejecución de notebooks/scripts**:
 
    Navega a la carpeta `codigo/` y abre los notebooks o scripts en tu entorno de desarrollo preferido (como Jupyter Notebook, Jupyter Lab, etc.).
 
 4. **Recursos**:   
 En el campus virtual tienes disponible las diapositivas sobre los modelos y el manejo de datos utilizados 
 
-5. **Contacto**
+5. **Contacto**:
 Para cualquier duda o comentario relacionado con la sesión o el contenido de este repositorio, puedes contactar a José M. Cecilia a través de jmcecilia@disca.upv.es.
 
-6. **Licencia**
+6. **Licencia**:
 Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
